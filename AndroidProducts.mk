@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_nx721j.mk
+    $(LOCAL_DIR)/yaap_nx721j.mk

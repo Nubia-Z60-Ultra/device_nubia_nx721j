@@ -4,6 +4,8 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
+TARGET_BOARD_PLATFORM:=pineapple
+
 # Get common SoC device configs
 #$(call inherit-product, device/nubia/sm8650-common/pineapple.mk)
 
