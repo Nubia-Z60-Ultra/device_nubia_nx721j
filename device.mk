@@ -5,7 +5,7 @@
 #
 
 # Get common SoC device configs
-$(call inherit-product, device/nubia/sm8650-common/pineapple.mk)
+$(call inherit-product, device/nubia/sm8650-common/common.mk)
 
 # Get non-open-source specific aspects
 $(call inherit-product, vendor/nubia/nx721j/nx721j-vendor.mk)
